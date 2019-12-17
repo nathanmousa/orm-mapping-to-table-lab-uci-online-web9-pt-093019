@@ -1,4 +1,4 @@
 class Student
-  attr_accessor :name, :date,  
+  attr_accessor :name, :grade
   
 end
