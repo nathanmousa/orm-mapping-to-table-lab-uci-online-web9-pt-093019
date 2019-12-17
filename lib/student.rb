@@ -39,5 +39,4 @@ class Student
     student.save
     student
   end
-  
 end
